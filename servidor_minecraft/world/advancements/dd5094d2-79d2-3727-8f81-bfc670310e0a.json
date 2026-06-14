@@ -2781,6 +2781,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2026-06-14 01:14:32 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-06-09 01:53:09 +0000"
@@ -4332,6 +4338,12 @@
   "spartanweaponry:spear": {
     "criteria": {
       "has_spear": "2026-06-13 01:12:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2026-06-14 01:14:42 +0000"
     },
     "done": true
   },
